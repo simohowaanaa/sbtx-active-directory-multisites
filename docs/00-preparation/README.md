@@ -52,13 +52,13 @@ Lorsque les quatre VM sont actives, elles utilisent 16 Go de RAM. Les disques se
 
 Les paramètres détaillés des cartes réseau virtuelles seront documentés dans l'[étape 02](../02-virtualisation/README.md).
 
-## Checklist avant de continuer
+## Checklist validée
 
-- [x] Vérifier que les deux ISO sont téléchargées.
-- [x] Vérifier qu'au moins 150 Go d'espace disque sont disponibles sur le poste hôte (553 Go disponibles).
-- [ ] Créer un dossier local dédié aux machines virtuelles.
-- [x] Vérifier que la virtualisation matérielle est activée dans le BIOS/UEFI.
-- [x] Ouvrir VirtualBox et confirmer qu'il démarre sans erreur.
+- ✅ Les deux ISO sont téléchargées.
+- ✅ Au moins 150 Go d'espace disque sont disponibles sur le poste hôte (553 Go disponibles).
+- ✅ Le dossier dédié aux VM est créé : `C:\VirtualMachines\SBTX-AD-Lab`.
+- ✅ La virtualisation matérielle est activée dans le BIOS/UEFI.
+- ✅ VirtualBox démarre sans erreur.
 
 ## Prochaine étape
 
