@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🛡️ Active Directory<br />Multi-sites</h1>
+<h1>Conception et sécurisation d'une infrastructure<br />Active Directory multi-sites</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2EA44F&center=true&vCenter=true&width=700&lines=Conception+d%27une+infrastructure+Active+Directory;Casablanca+%E2%86%94+Oujda+%7C+S%C3%A9curit%C3%A9+et+r%C3%A9silience" alt="Animation de présentation du projet" />
 
