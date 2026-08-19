@@ -15,7 +15,7 @@
 
 </div>
 
-# Infrastructure Active Directory multi-sites – [SBTX](https://www.sbtx.ma/)
+# Infrastructure Active Directory multi-sites – SBTX
 
 Projet de stage portant sur la conception, le déploiement et la sécurisation d'une infrastructure Active Directory multi-sites pour [SBTX](https://www.sbtx.ma/), avec des sites à Casablanca et à Oujda.
 
