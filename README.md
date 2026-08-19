@@ -1,3 +1,18 @@
+<div align="center">
+
+# Infrastructure Active Directory multi-sites
+
+### Projet de stage — SBTX | Casablanca · Oujda
+
+[![Active Directory](https://img.shields.io/badge/Active%20Directory-0052CC?style=for-the-badge&logo=microsoft&logoColor=white)](#objectifs)
+[![Multi--sites](https://img.shields.io/badge/Architecture-Multi--sites-2EA44F?style=for-the-badge&logo=windows-terminal&logoColor=white)](#architecture-cible)
+[![Cybersécurité](https://img.shields.io/badge/Cybersécurité-6F42C1?style=for-the-badge&logo=shield&logoColor=white)](#mesures-de-sécurité-prévues)
+
+[![État](https://img.shields.io/badge/État-En%20préparation-F59E0B?style=flat-square)](#environnement-de-laboratoire)
+[![Documentation](https://img.shields.io/badge/Documentation-Disponible-0A66C2?style=flat-square&logo=readthedocs&logoColor=white)](docs/README.md)
+
+</div>
+
 # Infrastructure Active Directory multi-sites – SBTX
 
 Projet de stage portant sur la conception, le déploiement et la sécurisation d'une infrastructure Active Directory multi-sites pour SBTX, avec des sites à Casablanca et à Oujda.
