@@ -54,11 +54,11 @@ Les paramètres détaillés des cartes réseau virtuelles seront documentés dan
 
 ## Checklist validée
 
-- ✅ Les deux ISO sont téléchargées.
-- ✅ Au moins 150 Go d'espace disque sont disponibles sur le poste hôte (553 Go disponibles).
-- ✅ Le dossier dédié aux VM est créé : `C:\VirtualMachines\SBTX-AD-Lab`.
-- ✅ La virtualisation matérielle est activée dans le BIOS/UEFI.
-- ✅ VirtualBox démarre sans erreur.
+- ![Terminé](../assets/check-complete.svg) Les deux ISO sont téléchargées.
+- ![Terminé](../assets/check-complete.svg) Au moins 150 Go d'espace disque sont disponibles sur le poste hôte (553 Go disponibles).
+- ![Terminé](../assets/check-complete.svg) Le dossier dédié aux VM est créé : `C:\VirtualMachines\SBTX-AD-Lab`.
+- ![Terminé](../assets/check-complete.svg) La virtualisation matérielle est activée dans le BIOS/UEFI.
+- ![Terminé](../assets/check-complete.svg) VirtualBox démarre sans erreur.
 
 ## Prochaine étape
 
