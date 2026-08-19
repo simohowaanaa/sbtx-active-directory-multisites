@@ -9,6 +9,7 @@ Préparer une maquette isolée pour concevoir et tester une infrastructure Activ
 - Deux contrôleurs de domaine Windows Server.
 - Deux postes clients Windows 11 Enterprise.
 - Deux réseaux virtuels, un par site.
+- Un routeur/pare-feu virtuel pour relier les deux sites.
 - Un domaine de laboratoire : `ad.sbtx.lab`.
 - Aucun changement sur le réseau, les comptes ou les équipements réels de l'entreprise.
 
@@ -32,8 +33,9 @@ Le poste hôte sert uniquement à exécuter et administrer les machines virtuell
 | `DC-OUJDA` | Contrôleur de domaine secondaire | Windows Server Evaluation | 4 Go | 2 | 60 Go |
 | `PC-CASA-01` | Poste client Casablanca | Windows 11 Enterprise Evaluation | 4 Go | 2 | 50 Go |
 | `PC-OUJDA-01` | Poste client Oujda | Windows 11 Enterprise Evaluation | 4 Go | 2 | 50 Go |
+| `RTR-SBTX` | Routeur/pare-feu inter-sites | À définir | 1 Go | 1 | 10 Go |
 
-Lorsque les quatre VM sont actives, elles utilisent 16 Go de RAM. Les disques seront créés au format dynamique afin de ne pas réserver tout l'espace immédiatement.
+Lorsque les cinq VM sont actives, elles utilisent 17 Go de RAM. Les disques seront créés au format dynamique afin de ne pas réserver tout l'espace immédiatement.
 
 ## Ressources logicielles
 
