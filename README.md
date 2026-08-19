@@ -4,6 +4,8 @@
 
 ### Projet de stage — SBTX | Casablanca · Oujda
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2EA44F&center=true&vCenter=true&width=700&lines=Conception+d%27une+infrastructure+Active+Directory;Casablanca+%E2%86%94+Oujda+%7C+S%C3%A9curit%C3%A9+et+r%C3%A9silience" alt="Animation de présentation du projet" />
+
 [![Active Directory](https://img.shields.io/badge/Active%20Directory-0052CC?style=for-the-badge&logo=microsoft&logoColor=white)](#objectifs)
 [![Multi--sites](https://img.shields.io/badge/Architecture-Multi--sites-2EA44F?style=for-the-badge&logo=windows-terminal&logoColor=white)](#architecture-cible)
 [![Cybersécurité](https://img.shields.io/badge/Cybersécurité-6F42C1?style=for-the-badge&logo=shield&logoColor=white)](#mesures-de-sécurité-prévues)
