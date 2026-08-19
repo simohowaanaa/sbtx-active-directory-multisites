@@ -29,5 +29,3 @@ Pour chaque étape, ajouter :
 - Des captures d'écran pertinentes dans le dossier [`assets`](assets/).
 - Les tests effectués et leurs résultats.
 - Les problèmes rencontrés et leur résolution.
-
-> Ne jamais ajouter de mots de passe, d'adresses IP publiques, de fichiers de configuration sensibles ou de données réelles de l'entreprise.
