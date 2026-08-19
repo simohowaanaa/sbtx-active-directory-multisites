@@ -40,8 +40,8 @@ Lorsque les quatre VM sont actives, elles utilisent 16 Go de RAM. Les disques se
 | Ressource | Utilisation | État |
 | --- | --- | --- |
 | VirtualBox | Hébergement des VM et réseaux virtuels | Disponible |
-| ISO Windows Server Evaluation (FR) | Installation des deux contrôleurs de domaine | À confirmer après téléchargement |
-| ISO Windows 11 Enterprise Evaluation (FR) | Installation des deux postes clients | À confirmer après téléchargement |
+| ISO Windows Server Evaluation (FR) | Installation des deux contrôleurs de domaine | Téléchargée |
+| ISO Windows 11 Enterprise Evaluation (FR) | Installation des deux postes clients | Téléchargée |
 
 ## Réseaux de laboratoire envisagés
 
@@ -54,11 +54,11 @@ Les paramètres détaillés des cartes réseau virtuelles seront documentés dan
 
 ## Checklist avant de continuer
 
-- [ ] Vérifier que les deux ISO sont téléchargées.
-- [ ] Vérifier qu'au moins 150 Go d'espace disque sont disponibles sur le poste hôte.
+- [x] Vérifier que les deux ISO sont téléchargées.
+- [x] Vérifier qu'au moins 150 Go d'espace disque sont disponibles sur le poste hôte (553 Go disponibles).
 - [ ] Créer un dossier local dédié aux machines virtuelles.
-- [ ] Vérifier que la virtualisation matérielle est activée dans le BIOS/UEFI.
-- [ ] Ouvrir VirtualBox et confirmer qu'il démarre sans erreur.
+- [x] Vérifier que la virtualisation matérielle est activée dans le BIOS/UEFI.
+- [x] Ouvrir VirtualBox et confirmer qu'il démarre sans erreur.
 
 ## Prochaine étape
 
