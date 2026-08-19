@@ -80,3 +80,7 @@ La maquette pourra être réalisée avec Hyper-V, VMware ou VirtualBox :
 - Politique de gestion des utilisateurs, groupes et droits d'accès.
 - Documentation des GPO de sécurité.
 - Procédure de sauvegarde, restauration et tests effectués.
+
+## Documentation du projet
+
+La documentation est organisée étape par étape dans le dossier [`docs`](docs/README.md).
