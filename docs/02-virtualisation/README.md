@@ -69,6 +69,8 @@ Les captures de création, ressources, disques et cartes réseau sont archivées
 - ![Terminé](../assets/check-complete.svg) Les interfaces du routeur sont affectées aux bons réseaux.
 - ![Terminé](../assets/check-complete.svg) UEFI, Secure Boot et TPM 2.0 sont activés sur les postes Windows 11.
 
+![Topologie VirtualBox validée](../assets/02-virtualisation/02-33-topologie-virtualbox.png)
+
 ## Prochaine étape
 
 Installer Windows Server sur `DC-CASA`, puis configurer son adresse IP statique et le domaine Active Directory dans l'[étape 03](../03-dc-casa/README.md).
