@@ -11,7 +11,7 @@ Cette étape prépare `DC-OUJDA`, le futur contrôleur de domaine du site d'Oujd
 | Passerelle | `192.168.20.1` |
 | DNS préféré | `192.168.10.10` |
 | Rôle installé | AD DS |
-| État de l'étape | Préparation terminée ; promotion en attente du routage |
+| État de l'étape | Contrôleur de domaine secondaire opérationnel |
 
 ## Réalisation
 
@@ -23,10 +23,13 @@ Cette étape prépare `DC-OUJDA`, le futur contrôleur de domaine du site d'Oujd
 6. Installation du rôle **Services de domaine Active Directory**.
 7. Vérification du rôle avec `Get-WindowsFeature AD-Domain-Services`.
 8. Création de l'instantané `DC-OUJDA - AD DS installe`.
+9. Validation du routage et du DNS inter-sites via `RTR-SBTX`.
+10. Promotion de `DC-OUJDA` comme contrôleur de domaine supplémentaire de `ad.sbtx.lab`.
+11. Validation de la réplication Active Directory, puis création de l'instantané `DC-OUJDA - DC secondaire répliqué`.
 
 ## Point d'attention
 
-`DC-OUJDA` ne doit pas être promu comme nouvelle forêt. La promotion future se fera en tant que **contrôleur de domaine supplémentaire** de `ad.sbtx.lab`, après la configuration du routeur `RTR-SBTX` et la validation de la communication entre les deux sites.
+`DC-OUJDA` a été promu comme **contrôleur de domaine supplémentaire** de `ad.sbtx.lab`, et non comme nouvelle forêt. Les sites logiques Casablanca et Oujda seront créés à l'étape 05.
 
 ## Preuves
 
