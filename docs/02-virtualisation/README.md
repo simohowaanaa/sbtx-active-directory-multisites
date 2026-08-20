@@ -60,7 +60,9 @@ Les disques virtuels sont dynamiques : ils n'occupent sur le poste hôte que l'e
 
 ## Captures conservées
 
-Les captures de création, ressources, disques et cartes réseau sont archivées dans le dossier [`assets/02-virtualisation`](../assets/02-virtualisation/). Elles suivent la numérotation chronologique `02-01` à `02-32`.
+Les captures de création, ressources, disques et cartes réseau sont archivées dans le dossier [`assets/02-virtualisation`](../assets/02-virtualisation/). Elles suivent la numérotation chronologique `02-01` à `02-33`.
+
+Le déroulement complet avec toutes les captures est disponible dans le [guide visuel pas à pas](GUIDE_PAS_A_PAS.md).
 
 ## Validation
 
